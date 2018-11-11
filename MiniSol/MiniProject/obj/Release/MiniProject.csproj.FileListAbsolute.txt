@@ -1,0 +1,75 @@
+\\harisree\2016-INT BCA_MCA (GIRLS)\Aswathi 75\ANDROID LAB\c# proj\ori proj\MiniSol\MiniProject\bin\Release\MiniProject.exe.config
+\\harisree\2016-INT BCA_MCA (GIRLS)\Aswathi 75\ANDROID LAB\c# proj\ori proj\MiniSol\MiniProject\bin\Release\MiniProject.exe
+\\harisree\2016-INT BCA_MCA (GIRLS)\Aswathi 75\ANDROID LAB\c# proj\ori proj\MiniSol\MiniProject\bin\Release\MiniProject.pdb
+\\harisree\2016-INT BCA_MCA (GIRLS)\Aswathi 75\ANDROID LAB\c# proj\ori proj\MiniSol\MiniProject\bin\Release\MySql.Data.dll
+\\harisree\2016-INT BCA_MCA (GIRLS)\Aswathi 75\ANDROID LAB\c# proj\ori proj\MiniSol\MiniProject\bin\Release\MySql.Data.xml
+\\harisree\2016-INT BCA_MCA (GIRLS)\Aswathi 75\ANDROID LAB\c# proj\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.csprojAssemblyReference.cache
+\\harisree\2016-INT BCA_MCA (GIRLS)\Aswathi 75\ANDROID LAB\c# proj\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.AdminLogin.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Aswathi 75\ANDROID LAB\c# proj\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.AdminRegister.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Aswathi 75\ANDROID LAB\c# proj\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.Form1.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Aswathi 75\ANDROID LAB\c# proj\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.Form10.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Aswathi 75\ANDROID LAB\c# proj\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.Form2.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Aswathi 75\ANDROID LAB\c# proj\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.Form3.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Aswathi 75\ANDROID LAB\c# proj\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.Form4.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Aswathi 75\ANDROID LAB\c# proj\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.Form5.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Aswathi 75\ANDROID LAB\c# proj\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.Form6.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Aswathi 75\ANDROID LAB\c# proj\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.Form7.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Aswathi 75\ANDROID LAB\c# proj\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.Form8.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Aswathi 75\ANDROID LAB\c# proj\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.Form9.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Aswathi 75\ANDROID LAB\c# proj\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.Properties.Resources.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Aswathi 75\ANDROID LAB\c# proj\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.viewcustgrid.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Aswathi 75\ANDROID LAB\c# proj\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.csproj.GenerateResource.cache
+\\harisree\2016-INT BCA_MCA (GIRLS)\Aswathi 75\ANDROID LAB\c# proj\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.csproj.CoreCompileInputs.cache
+\\harisree\2016-INT BCA_MCA (GIRLS)\Aswathi 75\ANDROID LAB\c# proj\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.csproj.CopyComplete
+\\harisree\2016-INT BCA_MCA (GIRLS)\Aswathi 75\ANDROID LAB\c# proj\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.exe
+\\harisree\2016-INT BCA_MCA (GIRLS)\Aswathi 75\ANDROID LAB\c# proj\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.pdb
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\ori proj\MiniSol\MiniProject\bin\Release\MiniProject.exe.config
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\ori proj\MiniSol\MiniProject\bin\Release\MiniProject.exe
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\ori proj\MiniSol\MiniProject\bin\Release\MiniProject.pdb
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\ori proj\MiniSol\MiniProject\bin\Release\MySql.Data.dll
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\ori proj\MiniSol\MiniProject\bin\Release\MySql.Data.xml
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.csprojAssemblyReference.cache
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.AdminLogin.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.AdminRegister.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.Form1.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.Form10.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.Form2.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.Form3.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.Form4.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.Form5.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.Form6.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.Form7.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.Form8.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.Form9.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.Properties.Resources.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.viewcustgrid.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.csproj.GenerateResource.cache
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.csproj.CoreCompileInputs.cache
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.csproj.CopyComplete
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.exe
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\ori proj\MiniSol\MiniProject\obj\Release\MiniProject.pdb
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\the real proj\MiniSol\MiniProject\bin\Release\MiniProject.exe.config
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\the real proj\MiniSol\MiniProject\bin\Release\MiniProject.exe
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\the real proj\MiniSol\MiniProject\bin\Release\MiniProject.pdb
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\the real proj\MiniSol\MiniProject\bin\Release\MySql.Data.dll
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\the real proj\MiniSol\MiniProject\bin\Release\MySql.Data.xml
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\the real proj\MiniSol\MiniProject\obj\Release\MiniProject.csprojAssemblyReference.cache
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\the real proj\MiniSol\MiniProject\obj\Release\MiniProject.AdminLogin.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\the real proj\MiniSol\MiniProject\obj\Release\MiniProject.AdminRegister.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\the real proj\MiniSol\MiniProject\obj\Release\MiniProject.Form1.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\the real proj\MiniSol\MiniProject\obj\Release\MiniProject.Form10.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\the real proj\MiniSol\MiniProject\obj\Release\MiniProject.Form2.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\the real proj\MiniSol\MiniProject\obj\Release\MiniProject.Form3.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\the real proj\MiniSol\MiniProject\obj\Release\MiniProject.Form4.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\the real proj\MiniSol\MiniProject\obj\Release\MiniProject.Form5.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\the real proj\MiniSol\MiniProject\obj\Release\MiniProject.Form6.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\the real proj\MiniSol\MiniProject\obj\Release\MiniProject.Form7.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\the real proj\MiniSol\MiniProject\obj\Release\MiniProject.Form8.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\the real proj\MiniSol\MiniProject\obj\Release\MiniProject.Form9.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\the real proj\MiniSol\MiniProject\obj\Release\MiniProject.Properties.Resources.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\the real proj\MiniSol\MiniProject\obj\Release\MiniProject.viewcustgrid.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\the real proj\MiniSol\MiniProject\obj\Release\MiniProject.csproj.GenerateResource.cache
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\the real proj\MiniSol\MiniProject\obj\Release\MiniProject.csproj.CoreCompileInputs.cache
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\the real proj\MiniSol\MiniProject\obj\Release\MiniProject.csproj.CopyComplete
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\the real proj\MiniSol\MiniProject\obj\Release\MiniProject.exe
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\Adheena Maria Benny 58\the real proj\MiniSol\MiniProject\obj\Release\MiniProject.pdb

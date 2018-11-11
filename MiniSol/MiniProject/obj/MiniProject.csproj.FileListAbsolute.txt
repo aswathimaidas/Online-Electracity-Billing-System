@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Visual Studio 2005\Projects\MiniSol\MiniProject\bin\Debug\MiniProject.exe
+C:\Users\Admin\Documents\Visual Studio 2005\Projects\MiniSol\MiniProject\bin\Debug\MiniProject.pdb
+C:\Users\Admin\Documents\Visual Studio 2005\Projects\MiniSol\MiniProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2005\Projects\MiniSol\MiniProject\obj\Debug\MiniProject.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2005\Projects\MiniSol\MiniProject\obj\Debug\MiniProject.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2005\Projects\MiniSol\MiniProject\obj\Debug\MiniProject.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2005\Projects\MiniSol\MiniProject\obj\Debug\MiniProject.exe
+C:\Users\Admin\Documents\Visual Studio 2005\Projects\MiniSol\MiniProject\obj\Debug\MiniProject.pdb
+C:\Users\Admin\Documents\Visual Studio 2005\Projects\MiniSol\MiniProject\obj\Debug\MiniProject.Form2.resources
+C:\Users\Admin\Documents\Visual Studio 2005\Projects\MiniSol\MiniProject\obj\Debug\MiniProject.Form3.resources

@@ -1,0 +1,57 @@
+C:\Users\khsci5mca16058\source\repos\MiniSol\MiniProject\bin\Debug\MiniProject.exe.config
+C:\Users\khsci5mca16058\source\repos\MiniSol\MiniProject\bin\Debug\MiniProject.exe
+C:\Users\khsci5mca16058\source\repos\MiniSol\MiniProject\bin\Debug\MiniProject.pdb
+C:\Users\khsci5mca16058\source\repos\MiniSol\MiniProject\obj\Debug\MiniProject.csprojAssemblyReference.cache
+C:\Users\khsci5mca16058\source\repos\MiniSol\MiniProject\obj\Debug\MiniProject.Form1.resources
+C:\Users\khsci5mca16058\source\repos\MiniSol\MiniProject\obj\Debug\MiniProject.Form2.resources
+C:\Users\khsci5mca16058\source\repos\MiniSol\MiniProject\obj\Debug\MiniProject.Form3.resources
+C:\Users\khsci5mca16058\source\repos\MiniSol\MiniProject\obj\Debug\MiniProject.Properties.Resources.resources
+C:\Users\khsci5mca16058\source\repos\MiniSol\MiniProject\obj\Debug\MiniProject.csproj.GenerateResource.cache
+C:\Users\khsci5mca16058\source\repos\MiniSol\MiniProject\obj\Debug\MiniProject.csproj.CoreCompileInputs.cache
+C:\Users\khsci5mca16058\source\repos\MiniSol\MiniProject\obj\Debug\MiniProject.exe
+C:\Users\khsci5mca16058\source\repos\MiniSol\MiniProject\obj\Debug\MiniProject.pdb
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\ori proj\MiniSol\MiniProject\obj\Debug\MiniProject.csprojAssemblyReference.cache
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\ori proj\MiniSol\MiniProject\obj\Debug\MiniProject.Form1.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\ori proj\MiniSol\MiniProject\obj\Debug\MiniProject.Form2.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\ori proj\MiniSol\MiniProject\obj\Debug\MiniProject.Form3.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\ori proj\MiniSol\MiniProject\obj\Debug\MiniProject.Properties.Resources.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\ori proj\MiniSol\MiniProject\obj\Debug\MiniProject.csproj.GenerateResource.cache
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\ori proj\MiniSol\MiniProject\obj\Debug\MiniProject.csproj.CoreCompileInputs.cache
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\ori proj\MiniSol\MiniProject\obj\Debug\MiniProject.exe
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\ori proj\MiniSol\MiniProject\obj\Debug\MiniProject.pdb
+C:\Users\khsci5mca16075\Desktop\ori proj\MiniSol\MiniProject\bin\Debug\MiniProject.exe.config
+C:\Users\khsci5mca16075\Desktop\ori proj\MiniSol\MiniProject\bin\Debug\MiniProject.exe
+C:\Users\khsci5mca16075\Desktop\ori proj\MiniSol\MiniProject\bin\Debug\MiniProject.pdb
+C:\Users\khsci5mca16075\Desktop\ori proj\MiniSol\MiniProject\obj\Debug\MiniProject.csprojAssemblyReference.cache
+C:\Users\khsci5mca16075\Desktop\ori proj\MiniSol\MiniProject\obj\Debug\MiniProject.Form1.resources
+C:\Users\khsci5mca16075\Desktop\ori proj\MiniSol\MiniProject\obj\Debug\MiniProject.Form2.resources
+C:\Users\khsci5mca16075\Desktop\ori proj\MiniSol\MiniProject\obj\Debug\MiniProject.Form3.resources
+C:\Users\khsci5mca16075\Desktop\ori proj\MiniSol\MiniProject\obj\Debug\MiniProject.Properties.Resources.resources
+C:\Users\khsci5mca16075\Desktop\ori proj\MiniSol\MiniProject\obj\Debug\MiniProject.csproj.GenerateResource.cache
+C:\Users\khsci5mca16075\Desktop\ori proj\MiniSol\MiniProject\obj\Debug\MiniProject.csproj.CoreCompileInputs.cache
+C:\Users\khsci5mca16075\Desktop\ori proj\MiniSol\MiniProject\obj\Debug\MiniProject.exe
+C:\Users\khsci5mca16075\Desktop\ori proj\MiniSol\MiniProject\obj\Debug\MiniProject.pdb
+C:\Users\khsci5mca16075\Desktop\ori proj\MiniSol\MiniProject\obj\Debug\MiniProject.Form4.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\c#\ori proj\MiniSol\MiniProject\bin\Debug\MiniProject.exe.config
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\c#\ori proj\MiniSol\MiniProject\bin\Debug\MiniProject.exe
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\c#\ori proj\MiniSol\MiniProject\bin\Debug\MiniProject.pdb
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\c#\ori proj\MiniSol\MiniProject\obj\Debug\MiniProject.csprojAssemblyReference.cache
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\c#\ori proj\MiniSol\MiniProject\obj\Debug\MiniProject.Form1.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\c#\ori proj\MiniSol\MiniProject\obj\Debug\MiniProject.Form2.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\c#\ori proj\MiniSol\MiniProject\obj\Debug\MiniProject.Form3.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\c#\ori proj\MiniSol\MiniProject\obj\Debug\MiniProject.Form4.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\c#\ori proj\MiniSol\MiniProject\obj\Debug\MiniProject.Properties.Resources.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\c#\ori proj\MiniSol\MiniProject\obj\Debug\MiniProject.csproj.GenerateResource.cache
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\c#\ori proj\MiniSol\MiniProject\obj\Debug\MiniProject.csproj.CoreCompileInputs.cache
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\c#\ori proj\MiniSol\MiniProject\obj\Debug\MiniProject.exe
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\c#\ori proj\MiniSol\MiniProject\obj\Debug\MiniProject.pdb
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\c#\ori proj\MiniSol\MiniProject\obj\Debug\MiniProject.Form5.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\c#\ori proj\MiniSol\MiniProject\obj\Debug\MiniProject.Form6.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\c#\ori proj\MiniSol\MiniProject\obj\Debug\MiniProject.Form7.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\c#\ori proj\MiniSol\MiniProject\obj\Debug\MiniProject.Form8.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\c#\ori proj\MiniSol\MiniProject\obj\Debug\MiniProject.Form9.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\c#\ori proj\MiniSol\MiniProject\obj\Debug\MiniProject.Form10.resources
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\c#\ori proj\MiniSol\MiniProject\bin\Debug\MySql.Data.dll
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\c#\ori proj\MiniSol\MiniProject\bin\Debug\MySql.Data.xml
+\\harisree\2016-INT BCA_MCA (GIRLS)\Adheena Maria Benny 58\c#\ori proj\MiniSol\MiniProject\obj\Debug\MiniProject.csproj.CopyComplete
+\\harisree\2016-INT BCA_MCA (GIRLS)\Aswathi 75\ANDROID LAB\c# proj\ori proj\MiniSol\MiniProject\bin\Debug\MiniProject.exe
